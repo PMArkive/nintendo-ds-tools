@@ -1,1 +1,1 @@
-deprecated repository. Fpr fwTool see https://github.com/WinterMute/fwTool
+deprecated repository. For fwTool see https://github.com/WinterMute/fwTool
